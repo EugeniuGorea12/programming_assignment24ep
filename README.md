@@ -2,7 +2,7 @@
 <em> Programming for Psychologists 24/25 Vrije Universiteit Amsterdam. Home assignment. </em>
 
 **Course code:** M_PROPSY\
-**Student:** Eugeniu Gorea
+**Student:** Eugeniu Gorea\
 **Course Coordinator:** Matthias Nau\
 **Teaching Assistant:** Anna van Harmelen\
 **Date:** 12.12.24
